@@ -13264,3 +13264,1041 @@ Total triangle count: 23247
 Writing c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
 MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
 20 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\wilso\Desktop\cs_maps_new\my_new_house.vmf
+Map revision 492
+Can't find surfaceprop stone for material DE_CBBLE/STAIN_GLASS/STAIN_GLASS_B, using default
+Patching WVT material: maps/my_new_house/nature/blend_dirtwall_grass_house_wvt_patch
+Patching WVT material: maps/my_new_house/cs_italy/blendstonefloor003dirtfloor006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+WARNING: node without a volume
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 382 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\wilso\Desktop\cs_maps_new\my_new_house.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (289319 bytes)
+Error! prop_static using model "models/props/de_inferno/potted_plant2_simple.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_inferno/potted_plant2_simple.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 504 texinfos to 452
+Reduced 72 texdatas to 65 (1991 bytes to 1682)
+Writing C:\Users\wilso\Desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+8 threads
+reading c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+reading c:\users\wilso\desktop\cs_maps_new\my_new_house.prt
+1959 portalclusters
+6629 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 263485 visible clusters (0.00%)
+Total clusters visible: 3011782
+Average clusters visible: 1537
+Building PAS...
+Average clusters audible: 1958
+visdatasize:947827  compressed from 971664
+writing c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+7977 faces
+15 degenerate faces
+564751 square feet [81324160.00 square inches]
+12 Displacements
+235 Square Feet [33872.84 Square Inches]
+7962 patches before subdivision
+zero area child patch
+57260 patches after subdivision
+52 direct lights
+0...1...2...3...4...5...6...7...8...9. warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 7413
+ warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 7414
+..100...1...2...3...4...5...6...7...8...9...10transfers 3887554, max 642
+transfer lists:  29.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(220640, 205030, 178560)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(84248, 70420, 50353)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(38910, 29966, 18394)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(17586, 12497, 6554)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(8415, 5563, 2530)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3997, 2466, 968)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1949, 1126, 384)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(949, 514, 151)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(469, 239, 61)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(232, 111, 24)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(116, 52, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(58, 25, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(29, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(15, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(8, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0113 sec>
+0...1...2...3...4...5...6...7...8...9. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+SampleRadial: Punting, Waiting for fix
+..10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 117/1024         5616/49152    (11.4%) 
+brushes                686/8192         8232/98304    ( 8.4%) 
+brushsides            5478/81920       43824/655360   ( 6.7%) 
+planes                7612/65536      152240/1310720  (11.6%) 
+vertexes             13543/65536      162516/786432   (20.7%) 
+nodes                 4899/65536      156768/2097152  ( 7.5%) 
+texinfos               452/12288       32544/884736   ( 3.7%) 
+texdata                 65/4096         2080/131072   ( 1.6%) 
+dispinfos               12/0            2112/0        ( 0.0%) 
+disp_verts             300/0            6000/0        ( 0.0%) 
+disp_tris              384/0             768/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples        1656/0            1656/0        ( 0.0%) 
+faces                 7977/65536      446712/3670016  (12.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3481/65536      194936/3670016  ( 5.3%) 
+facebrushes            312/0             624/0        ( 0.0%) 
+facebrushlists        7977/0           31908/0        ( 0.0%) 
+leaves                5017/65536      160544/2097152  ( 7.7%) 
+leaffaces            10117/65536       20234/131072   (15.4%) 
+leafbrushes           4465/65536        8930/131072   ( 6.8%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            53063/512000     212252/2048000  (10.4%) 
+edges                28594/256000     114376/1024000  (11.2%) 
+LDR worldlights         52/8192         5200/819200   ( 0.6%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            962/32768        9620/327680   ( 2.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15699/65536       31398/131072   (24.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                41/1024        14432/360448   ( 4.0%) 
+LDR lightdata         [variable]     4621580/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      947827/16777216 ( 5.6%) 
+entdata               [variable]      112114/393216   (28.5%) 
+LDR ambient table     5017/65536       20068/262144   ( 7.7%) 
+HDR ambient table     5017/65536       20068/262144   ( 7.7%) 
+LDR leaf ambient     12320/65536      344960/1835008  (18.8%) 
+HDR leaf ambient      5017/65536      140476/1835008  ( 7.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/41828    ( 0.0%) 
+pakfile               [variable]      151293/0        ( 0.0%) 
+physics               [variable]      289319/4194304  ( 6.9%) 
+physics terrain       [variable]        1268/1048576  ( 0.1%) 
+
+Level flags = 7c
+
+Total triangle count: 23163
+Writing c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+19 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\wilso\Desktop\cs_maps_new\my_new_house.vmf
+Map revision 494
+Error: displacement found on a(n) func_detail entity - not supported (entity 3, brush 0)
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\wilso\Desktop\cs_maps_new\my_new_house.vmf
+Map revision 495
+Can't find surfaceprop stone for material DE_CBBLE/STAIN_GLASS/STAIN_GLASS_B, using default
+Patching WVT material: maps/my_new_house/nature/blend_dirtwall_grass_house_wvt_patch
+Patching WVT material: maps/my_new_house/cs_italy/blendstonefloor003dirtfloor006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+WARNING: node without a volume
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 382 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\wilso\Desktop\cs_maps_new\my_new_house.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (291244 bytes)
+Error! prop_static using model "models/props/de_inferno/potted_plant2_simple.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_inferno/potted_plant2_simple.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 510 texinfos to 453
+Reduced 72 texdatas to 65 (1991 bytes to 1682)
+Writing C:\Users\wilso\Desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+reading c:\users\wilso\desktop\cs_maps_new\my_new_house.prt
+1953 portalclusters
+6616 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 247037 visible clusters (0.00%)
+Total clusters visible: 3030896
+Average clusters visible: 1551
+Building PAS...
+Average clusters audible: 1952
+visdatasize:949326  compressed from 968688
+writing c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+7986 faces
+16 degenerate faces
+562097 square feet [80942096.00 square inches]
+24 Displacements
+477 Square Feet [68748.66 Square Inches]
+7970 patches before subdivision
+zero area child patch
+57334 patches after subdivision
+52 direct lights
+0...1...2...3...4...5...6...7...8...9. warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 7422
+ warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 7423
+..100...1...2...3...4...5...6...7...8...9...10transfers 3902284, max 649
+transfer lists:  29.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(220466, 204833, 178331)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(84233, 70391, 50297)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(38912, 29966, 18387)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(17589, 12499, 6554)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(8416, 5564, 2530)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3998, 2466, 968)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1949, 1126, 384)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(949, 514, 151)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(469, 239, 61)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(232, 111, 24)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(116, 52, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(58, 25, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(29, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(15, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(8, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0112 sec>
+0...1...2...3...4...5...6...7...8...9. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+SampleRadial: Punting, Waiting for fix
+..10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 118/1024         5664/49152    (11.5%) 
+brushes                690/8192         8280/98304    ( 8.4%) 
+brushsides            5506/81920       44048/655360   ( 6.7%) 
+planes                7688/65536      153760/1310720  (11.7%) 
+vertexes             13606/65536      163272/786432   (20.8%) 
+nodes                 4888/65536      156416/2097152  ( 7.5%) 
+texinfos               453/12288       32616/884736   ( 3.7%) 
+texdata                 65/4096         2080/131072   ( 1.6%) 
+dispinfos               24/0            4224/0        ( 0.0%) 
+disp_verts             600/0           12000/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples        3436/0            3436/0        ( 0.0%) 
+faces                 7986/65536      447216/3670016  (12.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3502/65536      196112/3670016  ( 5.3%) 
+facebrushes            324/0             648/0        ( 0.0%) 
+facebrushlists        7986/0           31944/0        ( 0.0%) 
+leaves                5007/65536      160224/2097152  ( 7.6%) 
+leaffaces            10100/65536       20200/131072   (15.4%) 
+leafbrushes           4480/65536        8960/131072   ( 6.8%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            53208/512000     212832/2048000  (10.4%) 
+edges                28713/256000     114852/1024000  (11.2%) 
+LDR worldlights         52/8192         5200/819200   ( 0.6%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            967/32768        9670/327680   ( 3.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15795/65536       31590/131072   (24.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                41/1024        14432/360448   ( 4.0%) 
+LDR lightdata         [variable]     4586684/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      949326/16777216 ( 5.7%) 
+entdata               [variable]      112472/393216   (28.6%) 
+LDR ambient table     5007/65536       20028/262144   ( 7.6%) 
+HDR ambient table     5007/65536       20028/262144   ( 7.6%) 
+LDR leaf ambient     12401/65536      347228/1835008  (18.9%) 
+HDR leaf ambient      5007/65536      140196/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/41946    ( 0.0%) 
+pakfile               [variable]      151293/0        ( 0.0%) 
+physics               [variable]      291244/4194304  ( 6.9%) 
+physics terrain       [variable]        2562/1048576  ( 0.2%) 
+
+Level flags = 7c
+
+Total triangle count: 23206
+Writing c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+20 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\wilso\Desktop\cs_maps_new\my_new_house.vmf
+Map revision 496
+Can't find surfaceprop stone for material DE_CBBLE/STAIN_GLASS/STAIN_GLASS_B, using default
+Patching WVT material: maps/my_new_house/nature/blend_dirtwall_grass_house_wvt_patch
+Patching WVT material: maps/my_new_house/cs_italy/blendstonefloor003dirtfloor006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+WARNING: node without a volume
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 382 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\wilso\Desktop\cs_maps_new\my_new_house.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (292421 bytes)
+Error! prop_static using model "models/props/de_inferno/potted_plant2_simple.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_inferno/potted_plant2_simple.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 510 texinfos to 453
+Reduced 72 texdatas to 65 (1991 bytes to 1682)
+Writing C:\Users\wilso\Desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+8 threads
+reading c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+reading c:\users\wilso\desktop\cs_maps_new\my_new_house.prt
+1963 portalclusters
+6663 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 248945 visible clusters (0.00%)
+Total clusters visible: 3073440
+Average clusters visible: 1565
+Building PAS...
+Average clusters audible: 1962
+visdatasize:958588  compressed from 973648
+writing c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+8010 faces
+17 degenerate faces
+561372 square feet [80837600.00 square inches]
+24 Displacements
+477 Square Feet [68748.66 Square Inches]
+7993 patches before subdivision
+zero area child patch
+57133 patches after subdivision
+52 direct lights
+0...1...2...3...4...5...6...7...8...9. warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 7446
+ warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 7447
+..100...1...2...3...4...5...6...7...8...9...10transfers 3899802, max 646
+transfer lists:  29.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(220268, 204631, 178134)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(84234, 70414, 50332)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(38929, 30010, 18435)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(17606, 12539, 6588)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(8430, 5596, 2553)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4008, 2489, 981)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1957, 1141, 391)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(954, 524, 155)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(473, 245, 63)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(235, 115, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(118, 54, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(59, 26, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(30, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(15, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(8, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0115 sec>
+0...1...2...3...4...5...6...7...8...9. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+ warning - face vectors parallel to face normal. bad lighting will be produced
+..10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 118/1024         5664/49152    (11.5%) 
+brushes                692/8192         8304/98304    ( 8.4%) 
+brushsides            5521/81920       44168/655360   ( 6.7%) 
+planes                7704/65536      154080/1310720  (11.8%) 
+vertexes             13624/65536      163488/786432   (20.8%) 
+nodes                 4900/65536      156800/2097152  ( 7.5%) 
+texinfos               453/12288       32616/884736   ( 3.7%) 
+texdata                 65/4096         2080/131072   ( 1.6%) 
+dispinfos               24/0            4224/0        ( 0.0%) 
+disp_verts             600/0           12000/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples        3436/0            3436/0        ( 0.0%) 
+faces                 8010/65536      448560/3670016  (12.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3507/65536      196392/3670016  ( 5.4%) 
+facebrushes            328/0             656/0        ( 0.0%) 
+facebrushlists        8010/0           32040/0        ( 0.0%) 
+leaves                5019/65536      160608/2097152  ( 7.7%) 
+leaffaces            10131/65536       20262/131072   (15.5%) 
+leafbrushes           4485/65536        8970/131072   ( 6.8%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            53332/512000     213328/2048000  (10.4%) 
+edges                28772/256000     115088/1024000  (11.2%) 
+LDR worldlights         52/8192         5200/819200   ( 0.6%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            964/32768        9640/327680   ( 2.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15735/65536       31470/131072   (24.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                41/1024        14432/360448   ( 4.0%) 
+LDR lightdata         [variable]     4563548/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      958588/16777216 ( 5.7%) 
+entdata               [variable]      112470/393216   (28.6%) 
+LDR ambient table     5019/65536       20076/262144   ( 7.7%) 
+HDR ambient table     5019/65536       20076/262144   ( 7.7%) 
+LDR leaf ambient     12519/65536      350532/1835008  (19.1%) 
+HDR leaf ambient      5019/65536      140532/1835008  ( 7.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/41858    ( 0.0%) 
+pakfile               [variable]      151293/0        ( 0.0%) 
+physics               [variable]      292421/4194304  ( 7.0%) 
+physics terrain       [variable]        2562/1048576  ( 0.2%) 
+
+Level flags = 7c
+
+Total triangle count: 23262
+Writing c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+20 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\wilso\Desktop\cs_maps_new\my_new_house.vmf
+Map revision 497
+Can't find surfaceprop stone for material DE_CBBLE/STAIN_GLASS/STAIN_GLASS_B, using default
+Patching WVT material: maps/my_new_house/nature/blend_dirtwall_grass_house_wvt_patch
+Patching WVT material: maps/my_new_house/cs_italy/blendstonefloor003dirtfloor006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+WARNING: node without a volume
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 382 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\wilso\Desktop\cs_maps_new\my_new_house.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (291635 bytes)
+Error! prop_static using model "models/props/de_inferno/potted_plant2_simple.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_inferno/potted_plant2_simple.mdl"!
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\wilso\Desktop\cs_maps_new\my_new_house.vmf
+Map revision 499
+Can't find surfaceprop stone for material DE_CBBLE/STAIN_GLASS/STAIN_GLASS_B, using default
+Patching WVT material: maps/my_new_house/nature/blend_dirtwall_grass_house_wvt_patch
+Patching WVT material: maps/my_new_house/cs_italy/blendstonefloor003dirtfloor006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+WARNING: node without a volume
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 382 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\wilso\Desktop\cs_maps_new\my_new_house.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (291403 bytes)
+Error! prop_static using model "models/props/de_inferno/potted_plant2_simple.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_inferno/potted_plant2_simple.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 514 texinfos to 456
+Reduced 72 texdatas to 66 (1963 bytes to 1701)
+Writing C:\Users\wilso\Desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+8 threads
+reading c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+reading c:\users\wilso\desktop\cs_maps_new\my_new_house.prt
+1985 portalclusters
+6746 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 251569 visible clusters (0.00%)
+Total clusters visible: 3153448
+Average clusters visible: 1588
+Building PAS...
+Average clusters audible: 1984
+visdatasize:981460  compressed from 1016320
+writing c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+8010 faces
+16 degenerate faces
+558806 square feet [80468192.00 square inches]
+24 Displacements
+477 Square Feet [68748.66 Square Inches]
+7994 patches before subdivision
+zero area child patch
+57058 patches after subdivision
+52 direct lights
+0...1...2...3...4...5...6...7...8...9. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 7446
+no samples 7447
+..100...1...2...3...4...5...6...7...8...9...10transfers 3917651, max 665
+transfer lists:  29.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(220133, 204508, 178026)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(84262, 70441, 50356)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(38941, 30022, 18443)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(17609, 12542, 6590)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(8431, 5597, 2553)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4009, 2489, 981)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1958, 1141, 391)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(954, 524, 155)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(473, 245, 63)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(235, 115, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(118, 54, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(59, 26, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(30, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(15, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(8, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0113 sec>
+0...1...2...3...4...5...6...7...8...9. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+SampleRadial: Punting, Waiting for fix
+..10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 118/1024         5664/49152    (11.5%) 
+brushes                693/8192         8316/98304    ( 8.5%) 
+brushsides            5533/81920       44264/655360   ( 6.8%) 
+planes                7840/65536      156800/1310720  (12.0%) 
+vertexes             13639/65536      163668/786432   (20.8%) 
+nodes                 4902/65536      156864/2097152  ( 7.5%) 
+texinfos               456/12288       32832/884736   ( 3.7%) 
+texdata                 66/4096         2112/131072   ( 1.6%) 
+dispinfos               24/0            4224/0        ( 0.0%) 
+disp_verts             600/0           12000/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples        3436/0            3436/0        ( 0.0%) 
+faces                 8010/65536      448560/3670016  (12.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3513/65536      196728/3670016  ( 5.4%) 
+facebrushes            330/0             660/0        ( 0.0%) 
+facebrushlists        8010/0           32040/0        ( 0.0%) 
+leaves                5021/65536      160672/2097152  ( 7.7%) 
+leaffaces            10158/65536       20316/131072   (15.5%) 
+leafbrushes           4504/65536        9008/131072   ( 6.9%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            53362/512000     213448/2048000  (10.4%) 
+edges                28799/256000     115196/1024000  (11.2%) 
+LDR worldlights         52/8192         5200/819200   ( 0.6%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            973/32768        9730/327680   ( 3.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15855/65536       31710/131072   (24.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                41/1024        14432/360448   ( 4.0%) 
+LDR lightdata         [variable]     4513428/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      981460/16777216 ( 5.8%) 
+entdata               [variable]      112993/393216   (28.7%) 
+LDR ambient table     5021/65536       20084/262144   ( 7.7%) 
+HDR ambient table     5021/65536       20084/262144   ( 7.7%) 
+LDR leaf ambient     12462/65536      348936/1835008  (19.0%) 
+HDR leaf ambient      5021/65536      140588/1835008  ( 7.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/41918    ( 0.0%) 
+pakfile               [variable]      150969/0        ( 0.0%) 
+physics               [variable]      291403/4194304  ( 6.9%) 
+physics terrain       [variable]        2562/1048576  ( 0.2%) 
+
+Level flags = 7c
+
+Total triangle count: 23268
+Writing c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+20 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\wilso\Desktop\cs_maps_new\my_new_house.vmf
+Map revision 500
+Can't find surfaceprop stone for material DE_CBBLE/STAIN_GLASS/STAIN_GLASS_B, using default
+Patching WVT material: maps/my_new_house/nature/blend_dirtwall_grass_house_wvt_patch
+Patching WVT material: maps/my_new_house/cs_italy/blendstonefloor003dirtfloor006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+WARNING: node without a volume
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 382 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\wilso\Desktop\cs_maps_new\my_new_house.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (291403 bytes)
+Error! prop_static using model "models/props/de_inferno/potted_plant2_simple.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_inferno/potted_plant2_simple.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 514 texinfos to 456
+Reduced 72 texdatas to 66 (1963 bytes to 1701)
+Writing C:\Users\wilso\Desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+8 threads
+reading c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+reading c:\users\wilso\desktop\cs_maps_new\my_new_house.prt
+1985 portalclusters
+6746 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 251569 visible clusters (0.00%)
+Total clusters visible: 3153448
+Average clusters visible: 1588
+Building PAS...
+Average clusters audible: 1984
+visdatasize:981460  compressed from 1016320
+writing c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+8010 faces
+16 degenerate faces
+559477 square feet [80564800.00 square inches]
+24 Displacements
+477 Square Feet [68748.66 Square Inches]
+7994 patches before subdivision
+zero area child patch
+57202 patches after subdivision
+52 direct lights
+0...1...2...3...4...5...6...7...8...9. warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 7446
+ warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 7447
+..100...1...2...3...4...5...6...7...8...9...10transfers 3923442, max 665
+transfer lists:  29.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(220201, 204580, 178094)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(84279, 70462, 50371)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(38947, 30028, 18447)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(17611, 12544, 6591)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(8432, 5597, 2553)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4009, 2489, 981)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1958, 1141, 391)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(955, 524, 155)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(473, 245, 63)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(235, 115, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(118, 54, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(59, 26, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(30, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(15, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(8, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0113 sec>
+0...1...2...3...4...5...6...7...8...9. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+..10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 118/1024         5664/49152    (11.5%) 
+brushes                693/8192         8316/98304    ( 8.5%) 
+brushsides            5533/81920       44264/655360   ( 6.8%) 
+planes                7852/65536      157040/1310720  (12.0%) 
+vertexes             13639/65536      163668/786432   (20.8%) 
+nodes                 4902/65536      156864/2097152  ( 7.5%) 
+texinfos               456/12288       32832/884736   ( 3.7%) 
+texdata                 66/4096         2112/131072   ( 1.6%) 
+dispinfos               24/0            4224/0        ( 0.0%) 
+disp_verts             600/0           12000/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples        3436/0            3436/0        ( 0.0%) 
+faces                 8010/65536      448560/3670016  (12.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3513/65536      196728/3670016  ( 5.4%) 
+facebrushes            330/0             660/0        ( 0.0%) 
+facebrushlists        8010/0           32040/0        ( 0.0%) 
+leaves                5021/65536      160672/2097152  ( 7.7%) 
+leaffaces            10158/65536       20316/131072   (15.5%) 
+leafbrushes           4504/65536        9008/131072   ( 6.9%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            53362/512000     213448/2048000  (10.4%) 
+edges                28799/256000     115196/1024000  (11.2%) 
+LDR worldlights         52/8192         5200/819200   ( 0.6%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            973/32768        9730/327680   ( 3.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15855/65536       31710/131072   (24.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                41/1024        14432/360448   ( 4.0%) 
+LDR lightdata         [variable]     4517124/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      981460/16777216 ( 5.8%) 
+entdata               [variable]      112993/393216   (28.7%) 
+LDR ambient table     5021/65536       20084/262144   ( 7.7%) 
+HDR ambient table     5021/65536       20084/262144   ( 7.7%) 
+LDR leaf ambient     12462/65536      348936/1835008  (19.0%) 
+HDR leaf ambient      5021/65536      140588/1835008  ( 7.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/41918    ( 0.0%) 
+pakfile               [variable]      150969/0        ( 0.0%) 
+physics               [variable]      291403/4194304  ( 6.9%) 
+physics terrain       [variable]        2562/1048576  ( 0.2%) 
+
+Level flags = 7c
+
+Total triangle count: 23268
+Writing c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+20 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\wilso\Desktop\cs_maps_new\my_new_house.vmf
+Map revision 501
+Can't find surfaceprop stone for material DE_CBBLE/STAIN_GLASS/STAIN_GLASS_B, using default
+Patching WVT material: maps/my_new_house/nature/blend_dirtwall_grass_house_wvt_patch
+Patching WVT material: maps/my_new_house/cs_italy/blendstonefloor003dirtfloor006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+WARNING: node without a volume
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 382 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\wilso\Desktop\cs_maps_new\my_new_house.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (292186 bytes)
+Error! prop_static using model "models/props/de_inferno/potted_plant2_simple.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_inferno/potted_plant2_simple.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 514 texinfos to 456
+Reduced 72 texdatas to 66 (1963 bytes to 1701)
+Writing C:\Users\wilso\Desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+reading c:\users\wilso\desktop\cs_maps_new\my_new_house.prt
+1984 portalclusters
+6741 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 249857 visible clusters (0.00%)
+Total clusters visible: 3153101
+Average clusters visible: 1589
+Building PAS...
+Average clusters audible: 1983
+visdatasize:977104  compressed from 984064
+writing c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+8008 faces
+16 degenerate faces
+558955 square feet [80489616.00 square inches]
+24 Displacements
+477 Square Feet [68748.66 Square Inches]
+7992 patches before subdivision
+zero area child patch
+57010 patches after subdivision
+52 direct lights
+0...1...2...3...4...5...6...7...8...9. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+no samples 7444
+no samples 7445
+..100...1...2...3...4...5...6...7...8...9...10transfers 3918806, max 667
+transfer lists:  29.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(220029, 204408, 177926)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(84231, 70413, 50326)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(38937, 30017, 18438)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(17610, 12542, 6590)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(8432, 5597, 2553)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4010, 2489, 981)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1958, 1141, 391)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(955, 524, 155)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(473, 245, 63)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(235, 115, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(118, 54, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(59, 26, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(30, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(15, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(8, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0112 sec>
+0...1...2...3...4...5...6...7...8...9. warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+SampleRadial: Punting, Waiting for fix
+ warning - face vectors parallel to face normal. bad lighting will be produced
+ warning - face vectors parallel to face normal. bad lighting will be produced
+..10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 118/1024         5664/49152    (11.5%) 
+brushes                693/8192         8316/98304    ( 8.5%) 
+brushsides            5545/81920       44360/655360   ( 6.8%) 
+planes                7882/65536      157640/1310720  (12.0%) 
+vertexes             13636/65536      163632/786432   (20.8%) 
+nodes                 4901/65536      156832/2097152  ( 7.5%) 
+texinfos               456/12288       32832/884736   ( 3.7%) 
+texdata                 66/4096         2112/131072   ( 1.6%) 
+dispinfos               24/0            4224/0        ( 0.0%) 
+disp_verts             600/0           12000/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples        3436/0            3436/0        ( 0.0%) 
+faces                 8008/65536      448448/3670016  (12.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3514/65536      196784/3670016  ( 5.4%) 
+facebrushes            332/0             664/0        ( 0.0%) 
+facebrushlists        8008/0           32032/0        ( 0.0%) 
+leaves                5020/65536      160640/2097152  ( 7.7%) 
+leaffaces            10153/65536       20306/131072   (15.5%) 
+leafbrushes           4507/65536        9014/131072   ( 6.9%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            53352/512000     213408/2048000  (10.4%) 
+edges                28787/256000     115148/1024000  (11.2%) 
+LDR worldlights         52/8192         5200/819200   ( 0.6%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            972/32768        9720/327680   ( 3.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15831/65536       31662/131072   (24.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                41/1024        14432/360448   ( 4.0%) 
+LDR lightdata         [variable]     4508436/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      977104/16777216 ( 5.8%) 
+entdata               [variable]      112996/393216   (28.7%) 
+LDR ambient table     5020/65536       20080/262144   ( 7.7%) 
+HDR ambient table     5020/65536       20080/262144   ( 7.7%) 
+LDR leaf ambient     12413/65536      347564/1835008  (18.9%) 
+HDR leaf ambient      5020/65536      140560/1835008  ( 7.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/41914    ( 0.0%) 
+pakfile               [variable]      150969/0        ( 0.0%) 
+physics               [variable]      292186/4194304  ( 7.0%) 
+physics terrain       [variable]        2562/1048576  ( 0.2%) 
+
+Level flags = 7c
+
+Total triangle count: 23258
+Writing c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\wilso\desktop\cs_maps_new\my_new_house.bsp', but we don't own that location. Allowing...
+20 seconds elapsed
