@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8456"
-	"mapversion" "502"
+	"mapversion" "503"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "502"
+	"mapversion" "503"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -14635,7 +14635,7 @@ world
 		{
 			"id" "3536"
 			"plane" "(-290 34.92 385) (-724.281 34 385) (-724.281 34 449.754)"
-			"material" "PLASTER/PLASTER_INT_18"
+			"material" "PLASTER/PLASTERCEILING_INT_01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -15904,7 +15904,7 @@ world
 		side
 		{
 			"id" "3898"
-			"plane" "(-755 32.2181 423) (-826.879 31.266 423) (-827 52.0499 423)"
+			"plane" "(-755 32.2177 423) (-826.879 31.2655 423) (-827 52.0479 423)"
 			"material" "RUMAH_ASSETS/LANTAI_2_128"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -15915,8 +15915,8 @@ world
 		side
 		{
 			"id" "3897"
-			"plane" "(-755.121 53 385) (-827 52.0471 385) (-826.883 31.2621 385)"
-			"material" "RUMAH_ASSETS/LANTAI_2_128"
+			"plane" "(-755.121 53 386) (-827 52.0471 386) (-826.883 31.2654 386)"
+			"material" "PLASTER/PLASTERCEILING_INT_01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -15926,7 +15926,7 @@ world
 		side
 		{
 			"id" "3896"
-			"plane" "(-755 32.2194 385) (-826.883 31.2672 385) (-826.879 31.2673 423)"
+			"plane" "(-755 32.2195 386) (-826.879 31.2673 386) (-826.879 31.2673 423)"
 			"material" "RUMAH_ASSETS/LANTAI_2_128"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -15937,7 +15937,7 @@ world
 		side
 		{
 			"id" "3895"
-			"plane" "(-827 52.048 385) (-755.12 53 385) (-755.125 53 423)"
+			"plane" "(-827 52.048 386) (-755.12 53 386) (-755.125 53 423)"
 			"material" "RUMAH_ASSETS/LANTAI_2_128"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -15948,7 +15948,7 @@ world
 		side
 		{
 			"id" "3894"
-			"plane" "(-826.881 31.2656 385) (-827 52.048 385) (-827 52.0469 423)"
+			"plane" "(-826.881 31.2656 386) (-827 52.048 386) (-827 52.0469 423)"
 			"material" "RUMAH_ASSETS/LANTAI_2_128"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -15959,7 +15959,7 @@ world
 		side
 		{
 			"id" "3893"
-			"plane" "(-755.12 53 385) (-755 32.2188 385) (-755 32.2148 423)"
+			"plane" "(-755.12 53 386) (-755 32.2148 386) (-755 32.2148 423)"
 			"material" "RUMAH_ASSETS/LANTAI_2_128"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -76842,8 +76842,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-694.463 12.6777 373.812]"
-		"look" "[-694.611 13.6697 373.804]"
+		"position" "[-682.301 -2522.24 833.335]"
+		"look" "[-682.799 -2522.01 832.495]"
 	}
 }
 cordons
